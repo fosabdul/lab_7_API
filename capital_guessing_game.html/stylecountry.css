@@ -1,0 +1,36 @@
+body{
+    background-image: url('earth.jpg');
+    height: 100vh;
+   
+    border: 5px solid rgb(5, 57, 141);
+    height: 600px;
+    width: 750px;
+    margin: auto;
+    text-align: center;
+    
+    
+    
+}
+
+ *
+h1{
+    color: slateblue;
+    background-color: rgb(243, 239, 237);
+}
+
+.btn{
+
+    
+    color: rgb(13, 13, 14);
+    background-color: rgb(210, 240, 13);
+   
+    
+}
+h3{
+    color: rgb(18, 18, 19);
+    background-color: rgb(150, 143, 87);;
+}
+p {
+    color: slateblue;
+    background-color: rgb(243, 239, 237);
+}
